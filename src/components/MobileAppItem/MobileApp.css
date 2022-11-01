@@ -1,0 +1,47 @@
+.mobile-app {
+    margin-top: 50px;
+    background-color: #E0C340;
+    height: 450px;
+}
+
+.img-woman{
+    width: 50%;
+    height: 350px;
+    margin-top: 50px;
+}
+
+.mobile-app-title {
+    font-size: 40px;
+    font-weight: 900;
+    margin-top: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #ffffff;
+    width: 30%;  
+}
+
+.mobile-app-subtitle {
+    font-size: 40px;
+    font-weight: 900;
+    margin-top: 20px;
+    text-align: start;
+    text-transform: uppercase;
+    line-height: 20px;
+}
+
+.mobile-app-description {
+    font-size: 15px;
+    margin-top: 20px;
+    text-align: start;
+    color: #231300;
+    line-height: 20px;
+}
+
+.btn-app {
+    margin-top: 20px;
+    background-color: black !important;
+    color: #ffffff;
+    width: 20% !important;
+    height: 40px;
+    margin-right: 90px;
+}
